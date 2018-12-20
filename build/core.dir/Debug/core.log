@@ -1,0 +1,5 @@
+﻿  Connection.cpp
+D:\workplace\visual studio 2015\QRcode\CarvingQR\include\QRImageInfo.h(67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\visual studio 2015\QRcode\CarvingQR\include\QRImageInfo.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+Connection.cpp(153): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  core.vcxproj -> D:\workplace\visual studio 2015\QRcode\CarvingQR\build\Debug\core.lib
